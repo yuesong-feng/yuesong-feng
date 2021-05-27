@@ -2,8 +2,8 @@
 
 - 🔭 Working in Alibaba
 - 🌱 Worked in Tencent
-- ✨ Master of Computer Science， The University of Hong Kong, 2021 - 2022
-- 👯 Bachelor of Computer Science and Technology， Sichuan University, 2017 - 2021
+- ✨ Master of Computer Science, The University of Hong Kong, 2021 - 2022
+- 👯 Bachelor of Computer Science and Technology, Sichuan University, 2017 - 2021
 - 📫 How to reach me: yuesong-feng@foxmail.com
 - 😄 WeChat: 15828515798
 - ⚡ Fun fact: Enjoying playing the piano and classical guitar

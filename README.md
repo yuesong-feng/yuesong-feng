@@ -1,7 +1,7 @@
 ### Hi there, I'm yuesong-feng 👋
 
-- 🔭 Working in Alibaba
-- 🌱 Worked in Tencent
+- 🔭 Working in Alibaba(Intern)
+- 🌱 Worked in Tencent(Intern)
 - ✨ Master of Computer Science, The University of Hong Kong, 2021 - 2022
 - 👯 Bachelor of Computer Science and Technology, Sichuan University, 2017 - 2021
 - 📫 How to reach me: yuesong-feng@foxmail.com

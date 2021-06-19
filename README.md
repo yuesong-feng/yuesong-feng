@@ -1,4 +1,4 @@
-### Hi there, I'm yuesong-feng 👋
+### Hi there, I'm Yuesong Feng 👋
 
 - 🔭 Working in Alibaba (Intern)
 - 🌱 Worked in Tencent (Intern)

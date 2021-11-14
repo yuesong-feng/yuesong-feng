@@ -1,7 +1,7 @@
 ### Hi there, I'm Yuesong Feng 👋
 
-- 🔭 Worked in Alibaba (Intern)
-- 🌱 Worked in Tencent (Intern)
+- 🔭 Worked in Alibaba (Intern) 2021
+- 🌱 Worked in Tencent (Intern) 2020
 - ✨ Master of Computer Science, The University of Hong Kong, 2021 - 2022
 - 👯 Bachelor of Computer Science and Technology, Sichuan University, 2017 - 2021
 - ⚡ Fun fact: Enjoying playing the piano and classical guitar

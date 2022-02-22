@@ -1,5 +1,6 @@
 ### 👋Hi there, I'm Yuesong Feng     ![](https://nextjs-view-counter-yuesong-feng.vercel.app/api/counter)
 
+- 💻 Will work in Huawei from 2022
 - 🔭 Worked in Alibaba (Intern) 2021
 - 🌱 Worked in Tencent (Intern) 2020
 - ✨ Master of Computer Science, The University of Hong Kong, 2021 - 2023

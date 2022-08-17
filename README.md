@@ -1,4 +1,4 @@
-### 👋Hi there, I'm Yuesong Feng     ![](https://nextjs-view-counter-yuesong-feng.vercel.app/api/counter)
+### 👋Hi there, I'm Yuesong Feng, a database kernel developer     ![](https://nextjs-view-counter-yuesong-feng.vercel.app/api/counter)
 
 - 💻 Working in enmotech (Intern) 2022
 - 🔭 Worked in Alibaba (Intern) 2021

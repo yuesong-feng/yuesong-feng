@@ -1,6 +1,6 @@
 ### 👋Hi there, I'm 冯岳松, a database kernel developer
 
-- 🎓 Working in Dameng since 2023
+- 🎓 Working in XXX as a system developer since 2023
 - ⌨️ Worked on 2022 OceanBase Database Competition
 - 💻 Worked in enmotech (Intern) 2022
 - 🔭 Worked in Alibaba (Intern) 2021

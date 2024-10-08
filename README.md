@@ -7,6 +7,6 @@
 - 🌱 Worked in Tencent (Intern) 2020
 - ✨ Master of Computer Science, The University of Hong Kong, 2021 - 2023
 - 👯 Bachelor of Computer Science and Technology, Sichuan University, 2017 - 2021
-- ⚡ Fun fact: Enjoying playing the piano and classical guitar
+- ⚡ Fun fact: Enjoying playing the piano, classical guitar, alto recorder
 
 ![yuesong-feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuesong-feng)

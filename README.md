@@ -1,6 +1,5 @@
 ### 👋Hi there, I'm 冯岳松, a database kernel developer
 
-- 💻 [数据库杂谈](https://yuesong-feng.github.io)
 - 🎓 Working in XXX as a system developer since 2023
 - ⌨️ Worked on 2022 OceanBase Database Competition
 - 🖥 Worked in enmotech (Intern) 2022

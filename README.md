@@ -1,4 +1,4 @@
-### 👋Hi there, I'm Bastian, a database kernel developer
+### 👋Hi there, I'm Bastian
 
 🎓 EngD(Doctor of Engineering) student at IPADS, Shanghai Jiao Tong University, since 2026  
 🎓 Master of Computer Science, The University of Hong Kong, 2021 - 2023  
@@ -10,7 +10,7 @@
 🧑‍💻 Worked in Alibaba (Intern) 2021  
 🧑‍💻 Worked in Tencent (Intern) 2020
 
-🎹 Fun fact: Enjoying playing the piano, classical guitar, alto recorder
+🎹 Fun fact: Enjoy playing the piano, classical guitar, alto recorder
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuesong-feng&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuesong-feng&theme=default)
